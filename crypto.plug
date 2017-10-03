@@ -1,0 +1,9 @@
+[Core]
+Name = Crypto
+Module = crypto
+
+[Documentation]
+Description = Shows the current value of any cryptocurrency
+
+[Python]
+Version = 2+
